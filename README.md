@@ -8,3 +8,8 @@ French dataset for sentiment analysis (Data translated from English to French).
 label: Polarity of the tweet (0 = negative, 1 = positive)
 
 text: Content of the tweet
+
+## Source
+French Twitter Sentiment Analysis | Kaggle
+
+https://www.kaggle.com/hbaflast/french-twitter-sentiment-analysis
